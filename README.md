@@ -17,6 +17,6 @@ Time spent: 8 hours
 - Comment any link with <svg onload=alert(1)> at the end
 - Post comment
   
-![](exploit-1.gif | width=100)
+![](exploit-1.gif)
 
 
