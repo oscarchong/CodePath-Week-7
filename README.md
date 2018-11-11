@@ -14,7 +14,7 @@ Time spent: 8 hours
 
 #### Steps to recreate:
 - Go to any page where you can comment
-- Comment any link with <svg onload=alert(1)> at the end
+- Comment any link with < svg onload=alert(1) > at the end
 - Post comment
   
 ![](exploit-1.gif)
