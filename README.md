@@ -12,6 +12,11 @@ Time spent: 8 hours
 - Vulnerbility Type: XSS
 - Fixed in version: 4.2.1
 
-#### Steps:
-- 
+#### Steps to recreate:
+- Go to any page where you can comment
+- Comment any link with <svg onload=alert(1)> at the end
+- Post comment
+  
+![](exploit-1.gif)
+
 
